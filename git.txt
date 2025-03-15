@@ -1,0 +1,13 @@
+The working directory : where we actively edit files locally. this is our playground
+
+The staging area : its a temporary holding spot for changes before committing.
+
+The local repository : This is where we store committed changes locally.
+
+the remote repository : A server like Githubfor sharing and backing up code.
+
+
+
+git config --global user.email "jaya245@gmail.com"
+
+git config --global user.name "Jayanthi Kasturi"
